@@ -1,0 +1,1 @@
+scaffold-DbContext "Server=DESKTOP-F88PESO ;Database=hcl ;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o bd_context
